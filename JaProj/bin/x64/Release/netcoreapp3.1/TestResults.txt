@@ -1,0 +1,84 @@
+C# small images 1 threads [ms]
+319
+C# small images 2 threads [ms]
+65
+C# small images 4 threads [ms]
+54
+C# small images 8 threads [ms]
+89
+C# small images 16 threads [ms]
+49
+C# small images 32 threads [ms]
+6
+C# small images 64 threads [ms]
+6
+Asm small images 1 threads [ms]
+117
+Asm small images 2 threads [ms]
+27
+Asm small images 4 threads [ms]
+14
+Asm small images 8 threads [ms]
+14
+Asm small images 16 threads [ms]
+14
+Asm small images 32 threads [ms]
+14
+Asm small images 64 threads [ms]
+14
+C# medium images 1 threads [ms]
+65
+C# medium images 2 threads [ms]
+31
+C# medium images 4 threads [ms]
+20
+C# medium images 8 threads [ms]
+12
+C# medium images 16 threads [ms]
+13
+C# medium images 32 threads [ms]
+14
+C# medium images 64 threads [ms]
+13
+Asm medium images 1 threads [ms]
+113
+Asm medium images 2 threads [ms]
+55
+Asm medium images 4 threads [ms]
+28
+Asm medium images 8 threads [ms]
+42
+Asm medium images 16 threads [ms]
+45
+Asm medium images 32 threads [ms]
+45
+Asm medium images 64 threads [ms]
+42
+C# big images 1 threads [ms]
+1069
+C# big images 2 threads [ms]
+588
+C# big images 4 threads [ms]
+428
+C# big images 8 threads [ms]
+256
+C# big images 16 threads [ms]
+210
+C# big images 32 threads [ms]
+205
+C# big images 64 threads [ms]
+230
+Asm big images 1 threads [ms]
+1897
+Asm big images 2 threads [ms]
+1068
+Asm big images 4 threads [ms]
+675
+Asm big images 8 threads [ms]
+542
+Asm big images 16 threads [ms]
+531
+Asm big images 32 threads [ms]
+560
+Asm big images 64 threads [ms]
+494
